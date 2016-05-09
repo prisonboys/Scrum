@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: dfbd356ea61ed4471b5d2a6495f01106
+timeCreated: 1462826658
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group24
+    100002: group25
+    100004: group26
+    100006: group27
+    100008: group28
+    100010: pasted__group18
+    100012: pasted__group25
+    100014: pasted__group26
+    100016: pasted__group27
+    100018: pasted__pasted__group17
+    100020: pasted__pasted__group25
+    100022: pasted__pasted__group26
+    100024: pasted__pasted__pasted__group25
+    100026: pasted__pasted__pasted__pasted__pCylinder1
+    100028: pasted__pasted__pasted__pCube4
+    100030: pasted__pasted__pasted__pCube4 1
+    100032: pasted__pasted__pasted__pCylinder1
+    100034: pasted__pasted__pCylinder1
+    100036: pasted__pCylinder1
+    100038: pCube9
+    100040: pCylinder1
+    100042: transform5
+    100044: transform6
+    100046: //RootNode
+    100048: pCube10
+    100050: pCube12
+    100052: pCube13
+    100054: transform7
+    100056: transform8
+    400000: group24
+    400002: group25
+    400004: group26
+    400006: group27
+    400008: group28
+    400010: pasted__group18
+    400012: pasted__group25
+    400014: pasted__group26
+    400016: pasted__group27
+    400018: pasted__pasted__group17
+    400020: pasted__pasted__group25
+    400022: pasted__pasted__group26
+    400024: pasted__pasted__pasted__group25
+    400026: pasted__pasted__pasted__pasted__pCylinder1
+    400028: pasted__pasted__pasted__pCube4
+    400030: pasted__pasted__pasted__pCube4 1
+    400032: pasted__pasted__pasted__pCylinder1
+    400034: pasted__pasted__pCylinder1
+    400036: pasted__pCylinder1
+    400038: pCube9
+    400040: pCylinder1
+    400042: transform5
+    400044: transform6
+    400046: //RootNode
+    400048: pCube10
+    400050: pCube12
+    400052: pCube13
+    400054: transform7
+    400056: transform8
+    2300000: pasted__pasted__pasted__pasted__pCylinder1
+    2300002: pasted__pasted__pasted__pCube4
+    2300004: pasted__pasted__pasted__pCylinder1
+    2300006: pasted__pasted__pCylinder1
+    2300008: pasted__pCylinder1
+    2300010: pCylinder1
+    2300012: pCube13
+    3300000: pasted__pasted__pasted__pasted__pCylinder1
+    3300002: pasted__pasted__pasted__pCube4
+    3300004: pasted__pasted__pasted__pCylinder1
+    3300006: pasted__pasted__pCylinder1
+    3300008: pasted__pCylinder1
+    3300010: pCylinder1
+    3300012: pCube13
+    4300000: pasted__pasted__pasted__pCube4
+    4300002: pCylinder1
+    4300004: pasted__pCylinder1
+    4300006: pasted__pasted__pCylinder1
+    4300008: pasted__pasted__pasted__pCylinder1
+    4300010: pasted__pasted__pasted__pasted__pCylinder1
+    4300012: pCube13
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

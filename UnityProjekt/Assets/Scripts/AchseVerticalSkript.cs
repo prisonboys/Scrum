@@ -5,6 +5,8 @@ public class AchseVerticalSkript : MonoBehaviour {
 	public GameObject player;
 	public CharakterMovement cm;
 	public float moveSpeed;
+	public GameObject Achse1;
+	public bool Achse2Aktiv = false;
 
 	// Use this for initialization
 	void Start () {
@@ -17,15 +19,17 @@ public class AchseVerticalSkript : MonoBehaviour {
 		cm = player.GetComponent<CharakterMovement> ();
 		Debug.Log ("im trigger");
 		if (Input.GetKey (KeyCode.B)) {
-			Debug.Log ("E gedrückt");
+			Achse2Aktiv = true;
 			cm.enabled = false;
 			transform.parent.parent = player.transform;
 			float v = Input.GetAxis ("Vertical");
 			player.transform.Translate (new Vector3 (0, 0, v) * Time.deltaTime * moveSpeed);
-		} 
-		else {
-			transform.parent.parent = null;
-			cm.enabled = true;
+		} else {
+			Achse2Aktiv = false;
+			if (!Achse1.GetComponent<Achse1Skript> ().Achse1Aktiv) {
+				transform.parent.parent = null;
+				cm.enabled = true;
+			}
 		}
 	}
 }

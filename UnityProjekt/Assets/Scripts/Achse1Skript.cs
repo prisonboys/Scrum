@@ -4,28 +4,38 @@ using System.Collections;
 public class Achse1Skript : MonoBehaviour {
 
 	public GameObject player;
-	public GameObject cube;			//parent object des empty, das geschoben werden soll
-	private CharakterMovement cm;
+	public GameObject Achse2;
+	public CharakterMovement cm;
 	public float moveSpeed;
+	public bool Achse1Aktiv = false;
 
+	// Use this for initialization
 	void Start () {
-		cm = player.GetComponent<CharakterMovement> ();
+
 	
 	}
-		
-		void OnTriggerStay (Collider other)
+	
+	// Update is called once per frame
+
+	
+		void OnTriggerStay (Collider player)
 		{
-		if (Input.GetKey (KeyCode.B) & other.tag == "Player") {
-			Debug.Log("B gedrückt");
+		cm = player.GetComponent<CharakterMovement> ();
+	
+		if (Input.GetKey (KeyCode.B)) {
+
+			Achse1Aktiv = true;
 			cm.enabled = false;
-			cube.transform.parent = player.transform;
+			transform.parent.parent = player.transform;
 			float h = Input.GetAxis ("Horizontal");
 			player.transform.Translate (new Vector3 (h, 0, 0) * Time.deltaTime * moveSpeed);
-		}
-		else 
-		{
-			transform.parent.parent = null;
-			cm.enabled = true;
+
+		} else {
+			Achse1Aktiv = false;
+			if (!Achse2.GetComponent<AchseVerticalSkript> ().Achse2Aktiv) {
+				transform.parent.parent = null;
+				cm.enabled = true;
+			}
 		}
 	}
 

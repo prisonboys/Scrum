@@ -1,9 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Achse1Skript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AchseVerticalSkript.cs">
     <Files>
-      <File FileName="Assets/Scripts/Achse1Skript.cs" Line="18" Column="58" />
-      <File FileName="Assets/Scripts/Achse2Skript.cs" Line="18" Column="58" />
+      <File FileName="Assets/Scripts/Achse1Skript.cs" Line="7" Column="27" />
+      <File FileName="Assets/Scripts/AchseVerticalSkript.cs" Line="15" Column="2" />
+      <File FileName="../../../Desktop/ScrumProjekt/Assets/Achse1Skript.cs" Line="34" Column="4" NotebookId="1" />
+      <File FileName="../../../Desktop/ScrumProjekt/Assets/AchseVerticalSkript.cs" Line="12" Column="1" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
