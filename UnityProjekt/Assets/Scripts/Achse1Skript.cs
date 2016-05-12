@@ -8,6 +8,7 @@ public class Achse1Skript : MonoBehaviour {
 	private CharakterMovement cm;
 	public float moveSpeed;
 
+
 	void Start () {
 		cm = player.GetComponent<CharakterMovement> ();
 	
