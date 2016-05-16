@@ -53,6 +53,8 @@
      <Compile Include="Assets\Scripts\CharakterBewegung.cs" />
      <Compile Include="Assets\Scripts\CharakterMovement.cs" />
      <Compile Include="Assets\Scripts\CharakterMovement2.cs" />
+     <Compile Include="Assets\Scripts\GUI Skripte\LoadLevel.cs" />
+     <Compile Include="Assets\Scripts\GUI Skripte\PressEnterGUI.cs" />
      <Compile Include="Assets\Scripts\Laufskript.cs" />
      <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\schiebeskript.cs" />
