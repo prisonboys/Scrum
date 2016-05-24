@@ -18,7 +18,7 @@ public class AchseVerticalSkript : MonoBehaviour {
 	{
 		cm = player.GetComponent<CharakterMovement> ();
 		Debug.Log ("im trigger");
-		if (Input.GetKey (KeyCode.B)) {
+		if (Input.GetKey (KeyCode.B) & player.tag == "Player") {
 			Achse2Aktiv = true;
 			cm.enabled = false;
 			transform.parent.parent = player.transform;

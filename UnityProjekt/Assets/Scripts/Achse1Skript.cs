@@ -22,7 +22,7 @@ public class Achse1Skript : MonoBehaviour {
 		{
 		cm = player.GetComponent<CharakterMovement> ();
 	
-		if (Input.GetKey (KeyCode.B)) {
+		if (Input.GetKey (KeyCode.B) & player.tag == "Player" ) {
 
 			Achse1Aktiv = true;
 			cm.enabled = false;
