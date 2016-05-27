@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 6a886540e3f0041b7a75e6927884cc30
+timeCreated: 1464360087
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group9
+    100004: pasted__pCube3
+    100006: pCube2
+    100008: pCube3
+    100010: polyExtrudeFace10Curve
+    100012: polyExtrudeFace11Curve
+    100014: polyExtrudeFace12Curve
+    100016: polyExtrudeFace13Curve
+    100018: polyExtrudeFace14Curve
+    100020: polyExtrudeFace15Curve
+    100022: polyExtrudeFace1Curve
+    100024: polyExtrudeFace2Curve
+    100026: polyExtrudeFace3Curve
+    100028: polyExtrudeFace4Curve
+    100030: polyExtrudeFace5Curve
+    100032: polyExtrudeFace6Curve
+    100034: polyExtrudeFace7Curve
+    100036: polyExtrudeFace8Curve
+    100038: polyExtrudeFace9Curve
+    400000: //RootNode
+    400002: group9
+    400004: pasted__pCube3
+    400006: pCube2
+    400008: pCube3
+    400010: polyExtrudeFace10Curve
+    400012: polyExtrudeFace11Curve
+    400014: polyExtrudeFace12Curve
+    400016: polyExtrudeFace13Curve
+    400018: polyExtrudeFace14Curve
+    400020: polyExtrudeFace15Curve
+    400022: polyExtrudeFace1Curve
+    400024: polyExtrudeFace2Curve
+    400026: polyExtrudeFace3Curve
+    400028: polyExtrudeFace4Curve
+    400030: polyExtrudeFace5Curve
+    400032: polyExtrudeFace6Curve
+    400034: polyExtrudeFace7Curve
+    400036: polyExtrudeFace8Curve
+    400038: polyExtrudeFace9Curve
+    2300000: pasted__pCube3
+    2300002: pCube2
+    2300004: pCube3
+    3300000: pasted__pCube3
+    3300002: pCube2
+    3300004: pCube3
+    4300000: pCube2
+    4300002: pCube3
+    4300004: pasted__pCube3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
