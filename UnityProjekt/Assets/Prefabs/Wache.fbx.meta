@@ -63,6 +63,8 @@ ModelImporter:
     100110: transform6
     100112: transform7
     100114: //RootNode
+    100116: group15
+    100118: group16
     400000: group
     400002: group1
     400004: group10
@@ -121,6 +123,8 @@ ModelImporter:
     400110: transform6
     400112: transform7
     400114: //RootNode
+    400116: group15
+    400118: group16
     2300000: pasted__pasted__pasted__pCylinder5
     2300002: pasted__pasted__pCylinder5
     2300004: pasted__pCylinder5
