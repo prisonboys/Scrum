@@ -53,11 +53,14 @@
      <Compile Include="Assets\Scripts\CharakterBewegung.cs" />
      <Compile Include="Assets\Scripts\CharakterMovement.cs" />
      <Compile Include="Assets\Scripts\CharakterMovement2.cs" />
+     <Compile Include="Assets\Scripts\CheckpointSkript.cs" />
      <Compile Include="Assets\Scripts\GUI Skripte\LoadLevel.cs" />
      <Compile Include="Assets\Scripts\GUI Skripte\PressEnterGUI.cs" />
+     <Compile Include="Assets\Scripts\IngameMenu.cs" />
      <Compile Include="Assets\Scripts\KIscript.cs" />
      <Compile Include="Assets\Scripts\Laufskript.cs" />
      <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Scripts\PlayerRotate.cs" />
      <Compile Include="Assets\Scripts\schiebeskript.cs" />
      <Compile Include="Assets\SpaceNavigator\Plugins\QuaternionExtensions.cs" />
      <Compile Include="Assets\SpaceNavigator\Plugins\Settings\Locks.cs" />

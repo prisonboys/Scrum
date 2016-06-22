@@ -10,8 +10,18 @@ public class CharakterMovement : MonoBehaviour {
 	public Vector3 Laufrichtung = Vector3.zero;
 	public bool Achse1 = false;
 	public bool Achse2 = false;
+	public GameObject player;
+	public float X;
+	public float Y;
+	public float Z;
 
-	
+	void Start () {
+		X = PlayerPrefs.GetFloat ("X");
+		Y = PlayerPrefs.GetFloat ("Y");
+		Z = PlayerPrefs.GetFloat ("Z");
+		Vector3 PlayerPos = new Vector3 (X, Y, Z);
+		player.transform.position = PlayerPos;
+	}
 	
 	// Update is called once per frame
 	void Update () {
