@@ -15,13 +15,13 @@ public class CharakterMovement : MonoBehaviour {
 	public float Y;
 	public float Z;
 
-	void Start () {
-		X = PlayerPrefs.GetFloat ("X");
-		Y = PlayerPrefs.GetFloat ("Y");
-		Z = PlayerPrefs.GetFloat ("Z");
-		Vector3 PlayerPos = new Vector3 (X, Y, Z);
-		player.transform.position = PlayerPos;
-	}
+	//void Start () {
+	//	X = PlayerPrefs.GetFloat ("X");
+	//	Y = PlayerPrefs.GetFloat ("Y");
+	//	Z = PlayerPrefs.GetFloat ("Z");
+	//	Vector3 PlayerPos = new Vector3 (X, Y, Z);
+	//	player.transform.position = PlayerPos;
+	//}
 	
 	// Update is called once per frame
 	void Update () {

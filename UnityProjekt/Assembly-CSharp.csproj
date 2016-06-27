@@ -61,6 +61,8 @@
      <Compile Include="Assets\Scripts\Laufskript.cs" />
      <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\PlayerRotate.cs" />
+     <Compile Include="Assets\Scripts\RutschScript.cs" />
+     <Compile Include="Assets\Scripts\RutschScriptAktivieren.cs" />
      <Compile Include="Assets\Scripts\schiebeskript.cs" />
      <Compile Include="Assets\SpaceNavigator\Plugins\QuaternionExtensions.cs" />
      <Compile Include="Assets\SpaceNavigator\Plugins\Settings\Locks.cs" />
