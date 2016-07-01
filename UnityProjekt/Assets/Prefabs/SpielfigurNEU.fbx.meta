@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 3cde5e3e31867954fb42787aa3f1bce3
+timeCreated: 1467130683
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: group15
+    100002: group16
+    100004: pasted__pasted__pCylinder5
+    100006: pasted__pasted__pCylinder6
+    100008: pasted__pCylinder5
+    100010: pasted__pCylinder7
+    100012: pCylinder4
+    100014: pCylinder8
+    100016: pSphere2
+    100018: pSphere3
+    100020: pSphere4
+    100022: Spielfigur:group6
+    100024: Spielfigur:pCylinder2
+    100026: Spielfigur:pCylinder3
+    100028: Spielfigur:pCylinder4
+    100030: Spielfigur:transform4
+    100032: Spielfigur:transform5
+    100034: //RootNode
+    400000: group15
+    400002: group16
+    400004: pasted__pasted__pCylinder5
+    400006: pasted__pasted__pCylinder6
+    400008: pasted__pCylinder5
+    400010: pasted__pCylinder7
+    400012: pCylinder4
+    400014: pCylinder8
+    400016: pSphere2
+    400018: pSphere3
+    400020: pSphere4
+    400022: Spielfigur:group6
+    400024: Spielfigur:pCylinder2
+    400026: Spielfigur:pCylinder3
+    400028: Spielfigur:pCylinder4
+    400030: Spielfigur:transform4
+    400032: Spielfigur:transform5
+    400034: //RootNode
+    2300000: pasted__pasted__pCylinder5
+    2300002: pasted__pasted__pCylinder6
+    2300004: pasted__pCylinder5
+    2300006: pasted__pCylinder7
+    2300008: pCylinder4
+    2300010: pCylinder8
+    2300012: pSphere2
+    2300014: pSphere3
+    2300016: pSphere4
+    2300018: Spielfigur:pCylinder4
+    3300000: pasted__pasted__pCylinder5
+    3300002: pasted__pasted__pCylinder6
+    3300004: pasted__pCylinder5
+    3300006: pasted__pCylinder7
+    3300008: pCylinder4
+    3300010: pCylinder8
+    3300012: pSphere2
+    3300014: pSphere3
+    3300016: pSphere4
+    3300018: Spielfigur:pCylinder4
+    4300000: pSphere2
+    4300002: pCylinder4
+    4300004: pasted__pCylinder5
+    4300006: pSphere3
+    4300008: pCylinder8
+    4300010: pasted__pasted__pCylinder5
+    4300012: pasted__pasted__pCylinder6
+    4300014: pasted__pCylinder7
+    4300016: pSphere4
+    4300018: Spielfigur:pCylinder4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

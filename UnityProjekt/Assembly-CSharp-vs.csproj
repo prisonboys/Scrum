@@ -59,8 +59,24 @@
      <Compile Include="Assets\Scripts\Laufskript.cs" />
      <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\schiebeskript.cs" />
+     <Compile Include="Assets\SpaceNavigator\Plugins\QuaternionExtensions.cs" />
+     <Compile Include="Assets\SpaceNavigator\Plugins\Settings\Locks.cs" />
+     <Compile Include="Assets\SpaceNavigator\Plugins\Settings\Settings.cs" />
+     <Compile Include="Assets\SpaceNavigator\Plugins\SpaceNavigator.cs" />
+     <Compile Include="Assets\SpaceNavigator\Plugins\SpaceNavigatorMac.cs" />
+     <Compile Include="Assets\SpaceNavigator\Plugins\SpaceNavigatorWindows.cs" />
+     <Compile Include="Assets\SpaceNavigator\Runtime samples\- Fly around\Scripts\FlyAround.cs" />
+     <Compile Include="Assets\SpaceNavigator\Runtime samples\- Fly around\Scripts\SmoothFollow2.cs" />
+     <Compile Include="Assets\SpaceNavigator\Runtime samples\- Follow curve\Scripts\Torus.cs" />
+     <Compile Include="Assets\SpaceNavigator\Runtime samples\- Follow curve\Scripts\TorusController.cs" />
+     <None Include="Assets\SpaceNavigator\Changelog.txt" />
+     <None Include="Assets\SpaceNavigator\License.txt" />
+     <None Include="Assets\SpaceNavigator\README.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="TDx.TDxInput">
+ <HintPath>C:/Users/Matthias/Desktop/Scrum/UnityProjekt/Assets/SpaceNavigator/Plugins/TDx.TDxInput.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
