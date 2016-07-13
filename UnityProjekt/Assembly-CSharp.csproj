@@ -58,11 +58,15 @@
      <Compile Include="Assets\Scripts\GUI Skripte\PressEnterGUI.cs" />
      <Compile Include="Assets\Scripts\IngameMenu.cs" />
      <Compile Include="Assets\Scripts\KIscript.cs" />
+     <Compile Include="Assets\Scripts\KameraWechsel.cs" />
      <Compile Include="Assets\Scripts\Laufskript.cs" />
      <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\PlayerRotate.cs" />
      <Compile Include="Assets\Scripts\RutschScript.cs" />
      <Compile Include="Assets\Scripts\RutschScriptAktivieren.cs" />
+     <Compile Include="Assets\Scripts\RutschScriptAktivieren1.cs" />
+     <Compile Include="Assets\Scripts\UI.cs" />
+     <Compile Include="Assets\Scripts\UI2.cs" />
      <Compile Include="Assets\Scripts\schiebeskript.cs" />
      <Compile Include="Assets\SpaceNavigator\Plugins\QuaternionExtensions.cs" />
      <Compile Include="Assets\SpaceNavigator\Plugins\Settings\Locks.cs" />

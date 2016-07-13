@@ -62,9 +62,9 @@ public class RutschScript : MonoBehaviour {
 				v = 0;
 				h = 0.1f;
 			}
-			//if (Controller.isGrounded && Input.GetButton("Jump")) {
-			//	Laufrichtung.y = Sprungstärke;
-			//}
+			if (Controller.isGrounded && Input.GetButton("Jump")) {
+				Laufrichtung.y = Sprungstärke/2;
+			}
 
 		}
 		else {	
@@ -77,13 +77,7 @@ public class RutschScript : MonoBehaviour {
 	
 	}
   void	OnTriggerEnter (Collider other){
-
-			
-		
-
-
 			v = 0;
 			h = 0;
-
 	}
 }
