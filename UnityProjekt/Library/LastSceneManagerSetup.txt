@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Eislevel 3.3.unity
+- path: Assets/Scenes/Testszene.unity
   isLoaded: 1
   isActive: 1
