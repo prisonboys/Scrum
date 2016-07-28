@@ -54,12 +54,14 @@
      <Compile Include="Assets\Scripts\CharakterMovement.cs" />
      <Compile Include="Assets\Scripts\CharakterMovement2.cs" />
      <Compile Include="Assets\Scripts\CheckpointSkript.cs" />
+     <Compile Include="Assets\Scripts\DrehKI.cs" />
      <Compile Include="Assets\Scripts\GUI Skripte\LoadLevel.cs" />
      <Compile Include="Assets\Scripts\GUI Skripte\PressEnterGUI.cs" />
      <Compile Include="Assets\Scripts\IngameMenu.cs" />
      <Compile Include="Assets\Scripts\KIscript.cs" />
      <Compile Include="Assets\Scripts\KameraWechsel.cs" />
      <Compile Include="Assets\Scripts\Laufskript.cs" />
+     <Compile Include="Assets\Scripts\Levelwechsel.cs" />
      <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\PlayerRotate.cs" />
      <Compile Include="Assets\Scripts\RutschScript.cs" />
