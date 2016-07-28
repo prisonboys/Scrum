@@ -64,9 +64,14 @@
      <Compile Include="Assets\Scripts\Levelwechsel.cs" />
      <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\PlayerRotate.cs" />
+     <Compile Include="Assets\Scripts\RSDeaktivieren.cs" />
      <Compile Include="Assets\Scripts\RutschScript.cs" />
      <Compile Include="Assets\Scripts\RutschScriptAktivieren.cs" />
      <Compile Include="Assets\Scripts\RutschScriptAktivieren1.cs" />
+     <Compile Include="Assets\Scripts\Schieben1.cs" />
+     <Compile Include="Assets\Scripts\Schieben2.cs" />
+     <Compile Include="Assets\Scripts\SchiebungHorizontal.cs" />
+     <Compile Include="Assets\Scripts\SchiebungVertical.cs" />
      <Compile Include="Assets\Scripts\UI.cs" />
      <Compile Include="Assets\Scripts\UI2.cs" />
      <Compile Include="Assets\Scripts\schiebeskript.cs" />

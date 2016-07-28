@@ -33,18 +33,17 @@ public class RutschScript : MonoBehaviour {
 		if (CurPosx==LastPosx&&CurPosz==LastPosz)
 		{
 			still=true;
-			Debug.Log("Still true");
+		
 		}
 		else {
 			still=false;
-			Debug.Log("still false");
 		}
 		LastPosx = Player.transform.position.x;
 		LastPosz = Player.transform.position.z;
 		Laufrichtung = new Vector3(h, 0, v);
 		if (still == true) {
 
-			Debug.Log("Beweg");
+
 
 			if (Input.GetKeyDown (KeyCode.W)) {
 				v = 0.1f;
@@ -62,13 +61,10 @@ public class RutschScript : MonoBehaviour {
 				v = 0;
 				h = 0.1f;
 			}
-			if (Controller.isGrounded && Input.GetButton("Jump")) {
-				Laufrichtung.y = Sprungstärke/2;
-			}
 
 		}
 		else {	
-			Debug.Log("NB");
+			Debug.Log ("Hallo");
 			
 		}
 		Laufrichtung = transform.TransformDirection(Laufrichtung);
@@ -76,7 +72,7 @@ public class RutschScript : MonoBehaviour {
 		Controller.Move(Laufrichtung * moveSpeed * Time.deltaTime);
 	
 	}
-  void	OnTriggerEnter (Collider other){
+  void	OnCollisionEnter (Collision collision){
 			v = 0;
 			h = 0;
 	}
